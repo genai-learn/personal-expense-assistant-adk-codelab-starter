@@ -15,5 +15,5 @@
 GCLOUD_LOCATION: "us-central1"
 GCLOUD_PROJECT_ID: "vital-reef-466407-s2"
 BACKEND_URL: "http://localhost:8081/chat"
-STORAGE_BUCKET_NAME: "personal-expense-assistant-receipts"
+STORAGE_BUCKET_NAME: "personal-expense-assistant-receipts-rosh"
 DB_COLLECTION_NAME: "personal-expense-assistant-receipts"
